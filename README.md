@@ -112,7 +112,7 @@ Stefan Webb| 2016 <br>
     Source: http://bayesiandeeplearning.org/papers/BDL_44.pdf
  38. Semi-supervised Active Learning with Deep Probabilistic Generative Models | Amar Shah and Zoubin Ghahramani| 2016<br> 
     Source: http://bayesiandeeplearning.org/papers/BDL_43.pdf
- 39. Thesis: Uncertainty in Deep Learning  | Yarin Gal| PhD Thesis, 2016
+ 39. Thesis: Uncertainty in Deep Learning  | Yarin Gal| PhD Thesis, 2016 <br>
     Source: http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf, Blog: http://mlg.eng.cam.ac.uk/yarin/blog_2248.html <br>
  40. Deep survival analysis|R. Ranganath, A. Perotte, N. Elhadad, and D. Blei|2016 <br>
     Source: http://www.cs.columbia.edu/~blei/papers/RanganathPerotteElhadadBlei2016.pdf
