@@ -7,17 +7,17 @@
 ## Theory
 ### Papers / Thesis
 #### 2015: 
- 1. On Modern Deep Learning and Variational Inference  |Yarin Gal, Zoubin Ghahramani|2015
+ 1. On Modern Deep Learning and Variational Inference  |Yarin Gal, Zoubin Ghahramani|2015 <br>
     Source: http://www.approximateinference.org/accepted/GalGhahramani2015.pdf
- 2. Rapid Prototyping of Probabilistic Models: Emerging Challenges in Variational Inference   |Yarin Gal, |2015
-    Source: http://www.approximateinference.org/accepted/Gal2015.pdf
- 3. Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015
+ 2. Rapid Prototyping of Probabilistic Models: Emerging Challenges in Variational Inference   |Yarin Gal, |2015<br>
+    Source: http://www.approximateinference.org/accepted/Gal2015.pdf 
+ 3. Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015<br>
     Source: http://arxiv.org/abs/1506.02158
- 4. Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning  |Yarin Gal, Zoubin Ghahramani|2015
+ 4. Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning  |Yarin Gal, Zoubin Ghahramani|2015<br>
     Source: http://arxiv.org/abs/1506.02142
  5. Dropout as a Bayesian Approximation: Insights and Applications     |Yarin Gal, |2015
     Source: https://sites.google.com/site/deeplearning2015/33.pdf?attredirects=0
- 6. Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015
+ 6. Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015<br>
     Source: http://arxiv.org/abs/1506.02158
 #### 2016:
  1. Relativistic Monte Carlo | Xiaoyu Lu| 2016 <br>
@@ -100,9 +100,9 @@ Stefan Webb| 2016 <br>
  38. Semi-supervised Active Learning with Deep Probabilistic Generative Models | Amar Shah and Zoubin Ghahramani| 2016<br> 
     Source: http://bayesiandeeplearning.org/papers/BDL_43.pdf
  39. Thesis: Uncertainty in Deep Learning Link to this paper | Yarin Gal| PhD Thesis, 2016
-    Source: http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf, Blog: http://mlg.eng.cam.ac.uk/yarin/blog_2248.html 
+    Source: http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf, Blog: http://mlg.eng.cam.ac.uk/yarin/blog_2248.html <br>
  #### 2017
- 1.  Dropout Inference in Bayesian Neural Networks with Alpha-divergences Link to this paper |Yingzhen Li, Yarin Gal|2017
+ 1.  Dropout Inference in Bayesian Neural Networks with Alpha-divergences Link to this paper |Yingzhen Li, Yarin Gal|2017 <br>
     Source: https://arxiv.org/abs/1703.02914
- 2.  What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? Link to this paper |Alex Kendall, Yarin Gal|2017
+ 2.  What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? Link to this paper |Alex Kendall, Yarin Gal|2017 <br>
     Source: https://arxiv.org/abs/1703.04977
