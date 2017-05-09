@@ -116,7 +116,7 @@ Stefan Webb| 2016 <br>
     Source: http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf, Blog: http://mlg.eng.cam.ac.uk/yarin/blog_2248.html <br>
  40. Deep survival analysis|R. Ranganath, A. Perotte, N. Elhadad, and D. Blei|2016 <br>
     Source: http://www.cs.columbia.edu/~blei/papers/RanganathPerotteElhadadBlei2016.pdf
- 41. Towards Bayesian Deep Learning: A Survey| Hao Wang, Dit-Yan Yeung|2016
+ 41. Towards Bayesian Deep Learning: A Survey| Hao Wang, Dit-Yan Yeung|2016 <br>
     Source: https://arxiv.org/pdf/1604.01662
  #### 2017
  1.  Dropout Inference in Bayesian Neural Networks with Alpha-divergences |Yingzhen Li, Yarin Gal|2017 <br>
