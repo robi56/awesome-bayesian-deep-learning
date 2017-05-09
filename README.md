@@ -6,6 +6,16 @@
 
 ## Theory
 ### Papers / Thesis
+#### 2013: 
+ 1. Deep gaussian processes|Andreas C. Damianou,Neil D. Lawrence|2013
+    Source: http://www.jmlr.org/proceedings/papers/v31/damianou13a.pdf
+
+#### 2014: 
+ 1. Avoiding pathologies in very deep networks|D Duvenaud, O Rippel, R Adams|2014
+    Source: http://www.jmlr.org/proceedings/papers/v33/duvenaud14.pdf
+ 2. Nested variational compression in deep Gaussian processes|J Hensman, ND Lawrence|2014
+    Source: https://arxiv.org/abs/1412.1370
+
 #### 2015: 
  1. On Modern Deep Learning and Variational Inference  |Yarin Gal, Zoubin Ghahramani|2015 <br>
     Source: http://www.approximateinference.org/accepted/GalGhahramani2015.pdf
@@ -19,6 +29,9 @@
     Source: https://sites.google.com/site/deeplearning2015/33.pdf?attredirects=0
  6. Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference |Yarin Gal, Zoubin Ghahramani|2015<br>
     Source: http://arxiv.org/abs/1506.02158
+ 7. Scalable Variational Gaussian Process Classification|J Hensman, AGG Matthews, Z Ghahramani|2015
+    Source: http://www.jmlr.org/proceedings/papers/v38/hensman15.pdf
+ 
 #### 2016:
  1. Relativistic Monte Carlo | Xiaoyu Lu| 2016 <br>
     Source: http://bayesiandeeplearning.org/papers/BDL_3.pdf
@@ -101,6 +114,7 @@ Stefan Webb| 2016 <br>
     Source: http://bayesiandeeplearning.org/papers/BDL_43.pdf
  39. Thesis: Uncertainty in Deep Learning Link to this paper | Yarin Gal| PhD Thesis, 2016
     Source: http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf, Blog: http://mlg.eng.cam.ac.uk/yarin/blog_2248.html <br>
+    
  #### 2017
  1.  Dropout Inference in Bayesian Neural Networks with Alpha-divergences Link to this paper |Yingzhen Li, Yarin Gal|2017 <br>
     Source: https://arxiv.org/abs/1703.02914
