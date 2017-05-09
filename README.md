@@ -101,7 +101,7 @@ Stefan Webb| 2016 <br>
     Source: http://bayesiandeeplearning.org/papers/BDL_43.pdf
  39. Thesis: Uncertainty in Deep Learning Link to this paper | Yarin Gal| PhD Thesis, 2016
     Source: http://mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf, Blog: http://mlg.eng.cam.ac.uk/yarin/blog_2248.html 
- ####2017
+ #### 2017
  1.  Dropout Inference in Bayesian Neural Networks with Alpha-divergences Link to this paper |Yingzhen Li, Yarin Gal|2017
     Source: https://arxiv.org/abs/1703.02914
  2.  What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? Link to this paper |Alex Kendall, Yarin Gal|2017
