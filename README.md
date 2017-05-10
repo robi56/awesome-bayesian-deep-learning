@@ -41,6 +41,7 @@
     Source: http://bayesiandeeplearning.org/papers/BDL_5.pdf
  4. Categorical Reparameterization with Gumbel-Softmax| Eric Jang, Shixiang Gu,Ben Poole| 2016 <br>
     Source: http://bayesiandeeplearning.org/papers/BDL_8.pdf
+    Video: https://www.youtube.com/watch?v=JFgXEbgcT7g
  5. Learning to Optimise: Using Bayesian Deep Learning for Transfer Learning in Optimisation| Jonas Langhabel,   Jannik Wolff| 2016<br> 
     Source: http://bayesiandeeplearning.org/papers/BDL_9.pdf
  6. One-Shot Learning in Discriminative Neural Networks| Jordan Burgess,James Robert Lloyd,Zoubin Ghahramani| 2016<br>
@@ -56,7 +57,7 @@ Stefan Webb| 2016 <br>
     Source: http://bayesiandeeplearning.org/papers/BDL_13.pdf
  11. Combining sequential deep learning and variational Bayes for semi-supervised inference| Jos van der Westhuizen, Dr. Joan Lasenby| 2016 <br>
     Source: http://bayesiandeeplearning.org/papers/BDL_14.pdf
- 12. Importance Weighted Autoencoders with Random Neural Network Parameters| Daniel Hernández-Lobato,Thang D. Bui,Yinzhen Li| 2016<br> 
+ 12. Importance Weighted Autoencoders with Random Neural Network Parameters| Daniel Hernández-Lobato,Thang D. Bui,Yinzhen Li| 2016 
 Stefan Webb| 2016 <br>
     Source: http://bayesiandeeplearning.org/papers/BDL_15.pdf
  13. Variational Graph Auto-Encoders| Thomas N. Kipf,Max Welling| 2016 <br>
@@ -68,7 +69,8 @@ Stefan Webb| 2016 <br>
  16. Approximate Inference for Deep Latent Gaussian Mixture Models|Eric Nalisnick, Lars Hertel and Padhraic Smyth|2016 <br>
     Source: http://bayesiandeeplearning.org/papers/BDL_20.pdf
  17. Learning to Draw Samples: With Application to Amortized MLE for Generative Adversarial Training | Dilin Wang, Yihao Feng and Qiang Liu| 2016 <br>
-    Source: http://bayesiandeeplearning.org/papers/BDL_21.pdf
+    Source: http://bayesiandeeplearning.org/papers/BDL_21.pdf 
+    Video: https://www.youtube.com/watch?v=fi-UUQe2Pss
  18. Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks| Stefan Depeweg, José Miguel Hernández-Lobato, Finale Doshi-Velez and Steffen Udluft| 2016<br> 
     Source: https://arxiv.org/abs/1605.07127
  19. Accelerating Deep Gaussian Processes Inference with Arc-Cosine Kernels  | Kurt Cutajar, Edwin V. Bonilla, Pietro Michiardi and Maurizio Filippone| 2016 <br>
